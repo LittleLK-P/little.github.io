@@ -10,7 +10,7 @@ Welcome to **SBS Workflow**, a mobile app to simplify staff Google Form submissi
 - pop-up notification
   
 ## 📦 Download
-[Click here to download APK (v1.0.4)](https://github.com/LittleLK-P/SBSWorkflow-update/releases/download/V-1.0.4/SBSWorkflow-V-1.0.4.apk)
+[Click here to download APK (v1.0.4)](https://github.com/LittleLK-P/SBSWorkflow-update/releases/download/V-1.0.5/SBSWorkflow-V-1.0.5.apk)
 
 ## 🔗 Official Webpage
 https://littlelk-p.github.io/
